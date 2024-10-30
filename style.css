@@ -1,0 +1,96 @@
+/*
+Plugin CSS
+*/
+.calculator-top {
+    margin-top: 5% !important;
+}
+
+#operations-actions {
+    background: #ff9933;
+    width: 10%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: normal !important;
+    padding: 1%
+}
+#operations {
+    background: #ff9933;
+    width: 15%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: normal !important;
+    padding: 1%
+}
+#wm-calculator {
+    position: relative;
+    width: 580px;
+    /*border: 2px solid  #00cc44  !important;*/
+    border-radius: 12px;
+    background: #e6e6e6;
+    margin: 0px auto;
+    padding: 40px 20px 40px 20px;
+}
+
+#button-red {
+    background: #ca0e0e;
+     width: 15%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: normal !important;
+}
+
+#number-button {
+    background: #000;
+    width: 15%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: normal !important;
+    padding: 1%
+}
+
+/*input[type=button] {
+    background: #ff9933;
+    width: 15%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: normal !important;
+    padding: 1%
+}
+
+#number-button:active {
+    background-color: #b8e0b9;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}*/
+
+
+#calculator-form input[type = text] {
+    position: relative;
+    display: block;
+    width: 95%;
+    margin: 5px auto;
+    font-size: 20px;
+    padding: 10px;
+    /*box-shadow: 4px 0px 12px #3366ff inset;*/
+    margin-left: 2%;
+}
